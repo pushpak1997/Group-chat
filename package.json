@@ -1,0 +1,22 @@
+{
+  "name": "groupchat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pushpak1997/group-chat.git"
+  },
+  "author": "pushpak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pushpak1997/group-chat/issues"
+  },
+  "homepage": "https://github.com/pushpak1997/group-chat#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
